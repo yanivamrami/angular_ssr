@@ -1,0 +1,14 @@
+C:\Users\amrami\source\repos\netlush_ssr\bin\Debug\netcoreapp2.1\netlush_ssr.deps.json
+C:\Users\amrami\source\repos\netlush_ssr\bin\Debug\netcoreapp2.1\netlush_ssr.runtimeconfig.json
+C:\Users\amrami\source\repos\netlush_ssr\bin\Debug\netcoreapp2.1\netlush_ssr.runtimeconfig.dev.json
+C:\Users\amrami\source\repos\netlush_ssr\bin\Debug\netcoreapp2.1\netlush_ssr.dll
+C:\Users\amrami\source\repos\netlush_ssr\bin\Debug\netcoreapp2.1\netlush_ssr.pdb
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.csprojAssemblyReference.cache
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.csproj.CoreCompileInputs.cache
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.RazorAssemblyInfo.cache
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.RazorAssemblyInfo.cs
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.AssemblyInfoInputs.cache
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.AssemblyInfo.cs
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.RazorTargetAssemblyInfo.cache
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.dll
+C:\Users\amrami\source\repos\netlush_ssr\obj\Debug\netcoreapp2.1\netlush_ssr.pdb
